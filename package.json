@@ -1,0 +1,15 @@
+{
+  "name": "api-location",
+  "version": "1.0.0",
+  "description": "aplicación consumiendo api de localización",
+  "main": "scripts.js",
+  "homepage": "https://hollsann.github.io/location-api",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "Santiago Hollmann",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
