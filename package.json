@@ -5,8 +5,7 @@
   "main": "scripts.js",
   "homepage": "https://hollsann.github.io/location-api",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d ."
   },
   "author": "Santiago Hollmann",
   "license": "ISC",
